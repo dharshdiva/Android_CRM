@@ -40,7 +40,7 @@ git init
 git add .
 git commit -m "Initial commit: CRM Base Android app"
 git branch -M main
-git remote add origin https://github.com/dharshdiva/Android_CRM.git
+git remote add origin https://github.com/dharshdiva/android_CRM.git
 git push -u origin main
 ```
 
